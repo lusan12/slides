@@ -6,9 +6,9 @@
 ---
 ### Shaker Sort
 
-Este método es una optimización del ordenamiento para el intercambio directo.
-La manera de trabajar del método, es ir ordenando los extremos del vector conjuntamente.
-En este algoritmo, cada pasada tiene dos etapas:
+# Este método es una optimización del ordenamiento para el intercambio directo.
+# La manera de trabajar del método, es ir ordenando los extremos del vector conjuntamente.
+# En este algoritmo, cada pasada tiene dos etapas:
 
 - Derecha a izquierda
 - Izquierda a derecha
