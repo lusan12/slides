@@ -1,10 +1,10 @@
 ![Logo](http://arquitectura.unam.mx/uploads/8/1/1/0/8110907/_2634437.png?131)
-## Universidad Nacional Autónoma de México
-### Facultad de Ingeniería
-#### Técnicas de Programación - Ingeniería Mecatrónica
+## Facultad de Ingeniería
+### Metodos de Ordenamiento
+
 
 ---
-### Temario
+### Shaker Sort
 
 - @color[gray](Importancia del software en la mecatrónica) |
 - @color[gray](Metodología de la programación orientada a objetos) |
