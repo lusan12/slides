@@ -6,11 +6,12 @@
 ---
 ### Shaker Sort
 
-- @color[gray](Importancia del software en la mecatrónica) |
-- @color[gray](Metodología de la programación orientada a objetos) |
-- Desarrollo de sistemas de cómputo orientados a objetos |
-- Concepto, uso y aplicaciones de las estructuras de datos compuestas |
-- Interfaces gráficas de usuario |
+Este método es una optimización del ordenamiento para el intercambio directo.
+La manera de trabajar del método, es ir ordenando los extremos del vector conjuntamente.
+En este algoritmo, cada pasada tiene dos etapas:
+
+- Derecha a izquierda
+- Izquierda a derecha
 --- 
 
 ### Desarrollo de sistemas de cómputo orientados a objetos
