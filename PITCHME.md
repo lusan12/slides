@@ -32,5 +32,14 @@
 ![Logo](http://subirimagen.me/uploads/20181025200832.png)
 
 ---
+### Referencias
+
+- http://programasencsharp.blogspot.com/2013/06/ordenamiento-shaker-sort.html
+
+- https://es.wikipedia.org/wiki/Ordenamiento_de_burbuja_bidireccional
+
+- https://github.com/fajagama/shaker-sort-c-sharp/blob/master/Program.cs 
+
+---
 Gracias
 ---
