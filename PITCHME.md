@@ -20,7 +20,11 @@
 - Se trasladan los elementos más grandes hacia la parte derecha del arreglo.
 
 ---
-[Ejemplo](http://www.programming-algorithms.net/article/40270/Shaker-sort)
+### El algoritmo termina cuando en una etapa no se producen intercambios.
+
+---
+[Ejemplo gráfico](http://www.programming-algorithms.net/article/40270/Shaker-sort)
+[Code example](https://github.com/fajagama/shaker-sort-c-sharp/blob/master/Program.cs)
 
 ---
 ### El algoritmo termina cuando en una etapa no se producen intercambios.
