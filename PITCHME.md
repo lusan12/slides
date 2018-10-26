@@ -1,6 +1,6 @@
 ![Logo](http://www.ingenieria.unam.mx/nuestra_facultad/images/institucionales/escudos/escudofi_negro.jpg)
 ## Facultad de Ingeniería
-### Metodos de Ordenamiento
+### Métodos de Ordenamiento
 
 
 ---
@@ -13,18 +13,18 @@
 - Derecha a izquierda
 - Izquierda a derecha
 ---
-Primera etapa de derecha a izqierda:
+## Primera etapa de derecha a izqierda:
 - Se trasladan los elementos más pequeños hacia la parte de izquierda del arreglo.
 
-Segunda etapa de izquierda a derecha:
+## Segunda etapa de izquierda a derecha:
 - Se trasladan los elementos más grandes hacia la parte derecha del arreglo.
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/e/ef/Sorting_shaker_sort_anim.gif)
 
-### El algoritmo termina cuando en una etapa no se producen intercambios.
+
 ---
 
-
+### El algoritmo termina cuando en una etapa no se producen intercambios.
 
 ---
 
