@@ -1,4 +1,4 @@
-![Logo](http://www.ingenieria.unam.mx/nuestra_facultad/images/institucionales/escudos/escudofi_negro.jpg)
+![Logo](http://www.ingenieria.unam.mx/nuestra_facultad/images/institucionales/escudos/escudofi_negro.jpg250)
 ## Facultad de Ingeniería
 ### Metodos de Ordenamiento
 
@@ -13,6 +13,9 @@
 - Derecha a izquierda
 - Izquierda a derecha
 --- 
+
+---
+
 
 ### Desarrollo de sistemas de cómputo orientados a objetos
 
