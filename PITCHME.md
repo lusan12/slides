@@ -1,4 +1,4 @@
-![Logo](http://www.ingenieria.unam.mx/nuestra_facultad/images/institucionales/escudos/escudofi_negro.jpg250)
+![Logo](http://www.ingenieria.unam.mx/nuestra_facultad/images/institucionales/escudos/escudofi_negro.jpg 250)
 ## Facultad de Ingeniería
 ### Metodos de Ordenamiento
 
