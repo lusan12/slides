@@ -23,16 +23,14 @@
 ### El algoritmo termina cuando en una etapa no se producen intercambios.
 
 ---
-- [Ejemplo gráfico](http://www.programming-algorithms.net/article/40270/Shaker-sort)
+- [Ejemplo gráfico](https://en.wikipedia.org/wiki/Cocktail_shaker_sort#/media/File:Sorting_shaker_sort_anim.gif)
 - [Code example](https://github.com/fajagama/shaker-sort-c-sharp/blob/master/Program.cs)
 
 ---
-### El algoritmo termina cuando en una etapa no se producen intercambios.
-![Logo](https://github.com/lusan12/slides/blob/master/sacudida.png)
+### Ejemplo para clase
+
+#### 69 89 32 45 78 20 30
 
 ---
-
-
----
-
+Gracias
 ---
