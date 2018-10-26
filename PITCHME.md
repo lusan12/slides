@@ -4,7 +4,7 @@
 
 
 ---
-### Shaker Sort
+## Shaker Sort
 
  Este método es una optimización del ordenamiento para el intercambio directo.
  La manera de trabajar del método, es ir ordenando los extremos del vector conjuntamente. 
@@ -14,36 +14,19 @@
 - Izquierda a derecha
 --- 
 
+![Logo](https://upload.wikimedia.org/wikipedia/commons/e/ef/Sorting_shaker_sort_anim.gif)
+
+---
+
+
+
 ---
 
 
-### Desarrollo de sistemas de cómputo orientados a objetos
-
-Objetivo: El alumno desarrollará programas y sistemas de cómputo mediante el paradigma orientado a objetos.
 ---
 
-Contenido: 
-- 3.1  Análisis y definición de los requerimientos del usuario y del sistema |
-- 3.2  Diseño y modelado de sistemas, utilizando el Lenguaje de Modelado Unificado (UML) |
-- 3.3  Desarrollo de los subsistemas |
-- 3.4  Integración del sistema |
-- 3.5  Verificación, validación y pruebas del software |
-- 3.6  Mantenimiento del software (depuración, actualización, evolución)|
----
-#### Análisis y definición de los requerimientos del usuario y del sistema
-
-Traditional Software Phases
-
-- Requirements Engineering |
-- Design |
-- Implementation |
-- Maintenance |
-- Verification and Validation |
 
 ---
-##### Software Process Model
-
-![Software Process Model](https://i.ytimg.com/vi/laSrDtYtkXU/maxresdefault.jpg)
 
 ---
 ###### Waterfall
