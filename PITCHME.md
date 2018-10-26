@@ -27,10 +27,9 @@
 - [Code example](https://github.com/fajagama/shaker-sort-c-sharp/blob/master/Program.cs)
 
 ---
-### Ejemplo para clase
+### Resultados
 
-#### 69 89 32 45 78 20 30
-
+![Logo](https://en.wikipedia.org/wiki/Cocktail_shaker_sort#/media/File:Sorting_shaker_sort_anim.gif)
 ---
 Gracias
 ---
