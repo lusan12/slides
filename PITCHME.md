@@ -27,9 +27,10 @@
 - [Code example](https://github.com/fajagama/shaker-sort-c-sharp/blob/master/Program.cs)
 
 ---
-### Resultados
+### Resultados 
 
-![Logo](https://en.wikipedia.org/wiki/Cocktail_shaker_sort#/media/File:Sorting_shaker_sort_anim.gif)
+![Logo](http://subirimagen.me/uploads/20181025200832.png)
+
 ---
 Gracias
 ---
