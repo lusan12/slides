@@ -24,7 +24,7 @@
 
 ---
 - [Ejemplo gráfico](https://en.wikipedia.org/wiki/Cocktail_shaker_sort#/media/File:Sorting_shaker_sort_anim.gif)
-- [Code example](https://github.com/fajagama/shaker-sort-c-sharp/blob/master/Program.cs)
+- [Code example](http://lwh.free.fr/pages/algo/tri/tri_shaker_es.html)
 
 ---
 ### Resultados 
